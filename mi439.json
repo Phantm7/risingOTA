@@ -1,28 +1,28 @@
 {
- "response": [
-  {
-   "maintainer": "Phantom",
-   "oem": "Xiaomi",
-   "device": "Redmi 7A/8/8A/8A Dual",
-   "filename": "RisingOS-3.2-RELEASE-20240620-CORE-UNOFFICIAL-mi439-ota.zip",
-   "download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/mi439/RisingOS-3.2-RELEASE-20240620-CORE-UNOFFICIAL-mi439-ota.zip/download",
-   "timestamp": 1718913766,
-   "md5": "347d9bafd5f8c65886dbcc5ea234da58",
-   "sha256": "d2e8f8934edc099b8b07ad9f9622681fa98166ab0044226962142a23b33d4a57",
-   "size": 1495705505,
-   "version": "3.2-Janus",
-   "buildtype": "RELEASE",
-   "forum": "",
-   "gapps": "",
-   "firmware": "",
-   "modem": "",
-   "bootloader": "",
-   "recovery": "",
-   "paypal": "",
-   "telegram": "",
-   "dt": "",
-   "common-dt": "",
-   "kernel": ""
-  }
- ]
+	"response": [
+		{
+			"maintainer": "Phantom (@Phantm7)",
+			"oem": "Xiaomi",
+			"device": "Redmi 7A/8/8A/8A Dual",
+			"filename": "RisingOS-3.2-RELEASE-20240621-CORE-UNOFFICIAL-mi439-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/mi439/RisingOS-3.2-RELEASE-20240621-CORE-UNOFFICIAL-mi439-ota.zip/download",
+			"timestamp": 1718940994,
+			"md5": "3f65238b9178771f7b012f1b5d144fdf",
+			"sha256": "68a86c4bf4887acb6fb166910556a4affbe1eb7e1318b107280ddf9faf54f029",
+			"size": 1500491421,
+			"version": "3.2-Janus",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
